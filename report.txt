@@ -1,7 +1,7 @@
 NAME : Manish Soni                  email id: manishsoni135790@gmail.com                        Status : Yes
 NAME : Yogesh M                     email id: yogeshwtp@gmail.com                               Status : Yes
 NAME : Rajendra Behera              email id: rajendrarb3184@gmail.com                          Status : Yes
-NAME : Akshata Ashok Karajagi       email id:karajagiakshata@gmail.com                          Status : No
+NAME : Akshata Ashok Karajagi       email id:karajagiakshata@gmail.com                          Status : Yes
 NAME : Shrushti Shivanand Tambe     email id:shrushtitambe048@gmail.com                         Status : No
 NAME : Kakumanu Pujitha             email id: kakumanupujitha52@gmail.com                       Status : Yes
 NAME : Velvlauri Thejaswini          email id: thejuvelvaluri@gmail.vom                         Status : Yes
